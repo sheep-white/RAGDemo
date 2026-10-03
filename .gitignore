@@ -1,0 +1,12 @@
+# 密钥文件：绝对不上传
+.env
+
+# 虚拟环境
+.venv/
+
+# 向量库数据
+chroma_db/
+
+# Python 缓存
+__pycache__/
+*.pyc
